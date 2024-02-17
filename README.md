@@ -1,2 +1,2 @@
 # deeplearning
-deeplearning study
+deeplearning code
